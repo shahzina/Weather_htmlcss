@@ -1,0 +1,13 @@
+/* homework */
+.nav-tabs-right {
+    text-align:right;
+  }
+  
+  .nav-tabs-right > li {
+    display:inline-block;
+    float:none;
+  }
+
+.heading {
+	font:14;
+}
